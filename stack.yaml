@@ -15,7 +15,7 @@
 # resolver:
 #  name: custom-snapshot
 #  location: "./custom-snapshot.yaml"
-resolver: lts-8.0
+resolver: lts-9.10
 
 # User packages to be built.
 # Various formats can be used as shown in the example below.
@@ -40,9 +40,9 @@ packages:
 # Dependency packages to be pulled from upstream that are not in the resolver
 # (e.g., acme-missiles-0.3)
 extra-deps:
-- aivika-5.2
-- aivika-transformers-5.2
-- aivika-gpss-0.3
+- aivika-5.3.1
+- aivika-transformers-5.3.1
+- aivika-gpss-0.4
 
 # Override default flag values for local packages and extra-deps
 flags: {}
