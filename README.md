@@ -1,7 +1,7 @@
 
 # A Test Simulation Model Based on Using GPSS-like DSL of Aivika
 
-This test project demonstrates how to use the GPSS-like DSL of package [aivika-gpss](http://hackage.haskell.org/package/aivika-gpss) from the [Aivika](http://www.aivikasoft.com) simulation framework.
+This test project demonstrates how to use the GPSS-like DSL of package [aivika-gpss](http://hackage.haskell.org/package/aivika-gpss) from the Aivika simulation framework.
 
 ## GPSS Model
 

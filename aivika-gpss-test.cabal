@@ -2,9 +2,7 @@ name:                aivika-gpss-test
 version:             0.1.0.0
 synopsis:            A test simulation model using GPSS-like DSL of Aivika
 description:
-    This test project defines a simulation model using the GPSS-like DSL off Aivika [1].
-    .
-    \[1] <http://www.aivikasoft.com>
+    This test project defines a simulation model using the GPSS-like DSL of Aivika.
     .
 homepage:            https://github.com/dsorokin/aivika-gpss-test#readme
 license:             BSD3
